@@ -1,0 +1,8 @@
+C:\Progects\C++\Qt Progects\TRPO_BinariMetod\TRPO_BinariMetod\obj\Debug\TRPO_BinariMetod.csproj.AssemblyReference.cache
+C:\Progects\C++\Qt Progects\TRPO_BinariMetod\TRPO_BinariMetod\obj\Debug\TRPO_BinariMetod.csproj.SuggestedBindingRedirects.cache
+C:\Progects\C++\Qt Progects\TRPO_BinariMetod\TRPO_BinariMetod\obj\Debug\TRPO_BinariMetod.csproj.CoreCompileInputs.cache
+C:\Progects\C++\Qt Progects\TRPO_BinariMetod\TRPO_BinariMetod\bin\Debug\TRPO_BinariMetod.exe.config
+C:\Progects\C++\Qt Progects\TRPO_BinariMetod\TRPO_BinariMetod\bin\Debug\TRPO_BinariMetod.exe
+C:\Progects\C++\Qt Progects\TRPO_BinariMetod\TRPO_BinariMetod\bin\Debug\TRPO_BinariMetod.pdb
+C:\Progects\C++\Qt Progects\TRPO_BinariMetod\TRPO_BinariMetod\obj\Debug\TRPO_BinariMetod.exe
+C:\Progects\C++\Qt Progects\TRPO_BinariMetod\TRPO_BinariMetod\obj\Debug\TRPO_BinariMetod.pdb
