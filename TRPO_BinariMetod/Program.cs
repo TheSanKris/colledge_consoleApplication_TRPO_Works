@@ -14,7 +14,7 @@ namespace TRPO_BinariMetod
             while (true)
             {
                 Work1 da = new Work1();
-                da.Function1();
+                da.Function2();
 
                 Console.WriteLine();
                 Console.WriteLine(" Желаете продолжить? Введите '+' - ДА ИЛИ '-' - НЕТ");

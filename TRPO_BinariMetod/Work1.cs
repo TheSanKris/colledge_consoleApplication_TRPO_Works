@@ -65,5 +65,32 @@ namespace TRPO_BinariMetod
             Console.WriteLine(result_number);
         }
 
+        public void Function2()
+        {
+            Console.WriteLine("Вася загадал число от 1 до N. Введите N.");
+            float number_end = Convert.ToInt32(Console.ReadLine());
+            float number_start = 1;
+            float number_middle = 0;
+
+            int number_target = 2;
+            int result = 0;
+
+            while (true)
+            {
+                result++;
+                number_middle = (number_start + number_end) / 2;
+                
+                number_end = number_middle;
+                
+
+                if((Math.Ceiling(number_end)-number_start == 1) && number_middle % 1 != 0)
+                {
+                    Console.WriteLine(result);
+                    break;
+                }
+            }
+            
+        }
+
     }
 }
