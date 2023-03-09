@@ -113,7 +113,6 @@ namespace TRPO_BinariMetod
             int left_number = Convert.ToInt32(massiv1[0]);
             int right_number = Convert.ToInt32(massiv1.Last());
             int middle_number = 0;
-            int middle_number2 = 0;
 
             float left_end;
             float right_end;
