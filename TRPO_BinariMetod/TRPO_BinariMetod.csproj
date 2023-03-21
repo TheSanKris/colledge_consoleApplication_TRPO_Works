@@ -48,6 +48,7 @@
     <Compile Include="Work1.cs" />
     <Compile Include="Work2.cs" />
     <Compile Include="Work3.cs" />
+    <Compile Include="Work4.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
