@@ -13,7 +13,7 @@ namespace TRPO_BinariMetod
         {
             while (true)
             {
-                Work4 da = new Work4();
+                Work5 da = new Work5();
                 da.Function1();
 
                 Console.WriteLine();
