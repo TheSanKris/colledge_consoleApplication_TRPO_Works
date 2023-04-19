@@ -51,6 +51,7 @@
     <Compile Include="Work4.cs" />
     <Compile Include="Work5.cs" />
     <Compile Include="Work6.cs" />
+    <Compile Include="Work7.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
