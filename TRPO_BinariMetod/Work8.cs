@@ -39,6 +39,7 @@ namespace TRPO_BinariMetod
             Perevorot(m_arrMatrica);
             Sort(m_arrMatrica, lenght);
             Perevorot(m_arrMatrica);
+            Sort(m_arrMatrica, lenght);
 
             //Вывод отсортированного массива
             Console.WriteLine("Отсортированный массив:");
