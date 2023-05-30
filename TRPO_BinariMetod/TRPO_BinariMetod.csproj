@@ -46,6 +46,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Work1.cs" />
+    <Compile Include="Work10.cs" />
     <Compile Include="Work2.cs" />
     <Compile Include="Work3.cs" />
     <Compile Include="Work4.cs" />
@@ -53,6 +54,7 @@
     <Compile Include="Work6.cs" />
     <Compile Include="Work7.cs" />
     <Compile Include="Work8.cs" />
+    <Compile Include="Work9.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
